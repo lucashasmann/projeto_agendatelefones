@@ -2,8 +2,8 @@
 
 Este projeto é uma aplicação full-stack para armazenar e gerenciar contatos telefônicos. Ele foi criado para permitir o cadastro, visualização e exclusão de números de telefone, incluindo informações como nome, número e observações.
 
+![image](https://github.com/user-attachments/assets/c55620bf-c75d-454e-8604-bc8c60498b67)
 
-![alt text](image.png)
 
 ## Tecnologias Usadas
 
